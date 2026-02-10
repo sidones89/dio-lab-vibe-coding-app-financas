@@ -1,6 +1,13 @@
 # 💸 App Assistente de Finanças Pessoais com Vibe Coding
 
-### Entregando o Desafio na DIO
+### Sobre o Desafio na DIO
+
+O desafio consistiu em criar um aplicativo de finanças pessoais usando uma abordagem de *vibe coding*, explorando IAs generativas para transformar ideias em produto funcional.
+
+A proposta foi desenvolver um app de controle financeiro baseado em conversa em linguagem natural, onde o usuário registra receitas, despesas e metas apenas conversando, sem depender de formulários ou planilhas tradicionais.
+
+O foco do desafio foi unir produto, UX e IA para validar se uma experiência simples, acessível e conversacional pode reduzir fricção e aumentar o engajamento no controle financeiro pessoal.
+
 
 **PRD refinado no ChatGPT**
 
